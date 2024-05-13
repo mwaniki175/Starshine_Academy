@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110322720619",
+    "project_id": "starshine-academy",
+    "storage_bucket": "starshine-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110322720619:android:5f3cbeddd4d2df523e762e",
+        "android_client_info": {
+          "package_name": "com.example.starshineacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbeD7S46T0ORO8CvUTHhyO1JgsdoVJ5iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+package com.example.starshineacademy.navigation
+
+
+const val SIGNUP_URL = "signup"
+const val LOGIN_URL = "login"
+const val SPLASHSCREEN_URL = "splashscreen"
+const val DASHBOARD_URL = "dashboard"
+const val WELCOME_URL = "welcome"
+const val CONTACT_URL = "contact"
+const val STUDENTSCREEN_URL = "studentscreen"
+const val FORM1_URL = "form1"
+const val FORM2_URL = "form2"
+const val FORM3_URL = "form3"
+const val FORM4_URL = "form4"
+const val FORM1RECORDS_URL = "form1records"
+const val FORM2RECORDS_URL = "form2records"
+const val FORM3RECORDS_URL = "form3records"
+const val FORM4RECORDS_URL = "form4records"
+const val ABOUT_URL = "biography"
+const val GALLERY_URL = "schoolgallery"
